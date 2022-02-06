@@ -11,10 +11,10 @@ The purpose of this analysis is to get information on the upcoming 'silver tsuna
 ### Purpose
 
 ## Results
-<!-- Provide a bullete list with four major points from the two deliverables -->
+<!-- Provide a bulleted list with four major points from the two deliverables -->
 
-*
-*
+* Two managers are retiring, which will leave PH with no currently employed managers
+* As is expected, most of the employees retiring are in senior level positions. 
 *
 *
 
@@ -24,3 +24,8 @@ The purpose of this analysis is to get information on the upcoming 'silver tsuna
 <!-- How many roles will need to be filled as the "silver tsunami" begins to make an impact? -->
 
 <!--  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? -->
+
+Brainstorming additional queries :
+- Number of employees by title that AREN'T retiring.
+- Number of non-senior employees eligible for promotion
+- Salaries for 
