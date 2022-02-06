@@ -15,7 +15,7 @@ The purpose of this analysis is to get information on the upcoming 'silver tsuna
 >![Fig1. A count of how many employees are eligible for retirement by job title](resources/retiring_titles.png) 
 >Figure 1.
 
->![Fig2. A list of employees eligible for mentorship.](resources/mentorship_elegibility)
+>![Fig2. A list of employees eligible for mentorship.](resources/mentorship_elegibility.png)
 >Figure 2.
 <!-- Provide a bulleted list with four major points from the two deliverables -->
 
